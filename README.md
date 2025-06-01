@@ -24,7 +24,7 @@
 
 1. 克隆仓库
 ```bash
-git clone [仓库地址]
+git clone https://github.com/hyw4521/-tag.git
 ```
 
 2. 安装依赖

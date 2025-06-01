@@ -3,4 +3,5 @@ dist/
 build/
 *.dmg
 *.zip
-*.app 
+*.app
+.DS_Store 
